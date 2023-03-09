@@ -4,4 +4,4 @@
 
 #### 2. edit popup.js add your openai api key
 
-#### 3. go chrome://extensions/, click load uppack select the floder at step 1
+#### 3. go to chrome://extensions/, click load uppack select the floder at step 1
