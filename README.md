@@ -1,6 +1,6 @@
 # ChatGPT-Chrome-Extension
 
-## this extension writed by openAI
+## this extension written by openAI
 
 #### 1. downlaod all the file and put them into a floder
 
