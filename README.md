@@ -1,6 +1,6 @@
 # ChatGPT-Chrome-Extension
 
-## This extension was written by OpenAI.
+## Usage
 
 #### 1. Download zip file and unzip.
 
