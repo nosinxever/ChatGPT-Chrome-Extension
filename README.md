@@ -2,7 +2,7 @@
 
 ## This extension was written by OpenAI.
 
-#### 1. Download all the files and put them into a folder.
+#### 1. Download zip file and unzip.
 
 #### 2. Edit popup.js to add your OpenAI API key.
 
