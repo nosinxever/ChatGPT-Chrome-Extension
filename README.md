@@ -1,9 +1,9 @@
 # ChatGPT-Chrome-Extension
 
-## this extension written by openAI
+## This extension was written by OpenAI.
 
-#### 1. downlaod all the file and put them into a floder
+#### 1. Download all the files and put them into a folder.
 
-#### 2. edit popup.js add your openai api key
+#### 2. Edit popup.js to add your OpenAI API key.
 
-#### 3. go to manange extensions, click load uppack select the floder at step 1
+#### 3. Go to "Manage Extensions", open Developer mode, and click "Load unpacked". Then select the folder from step 1.
